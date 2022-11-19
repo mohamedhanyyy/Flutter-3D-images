@@ -56,7 +56,7 @@ class ProductDetail extends StatelessWidget {
                 backgroundColor: Colors.transparent,
                 initialUrl: 'https://app.vectary.com/p/7kXRGOXDuYiFvNZOurp4SB',
                 javascriptMode: JavascriptMode.unrestricted,
-
+//
               ),
             ),
             Text(
